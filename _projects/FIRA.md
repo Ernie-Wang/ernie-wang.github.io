@@ -85,6 +85,8 @@ Through my development, I achieved:
 
 ---
 
+After the tournament, we exchanged design ideas of our own robots and shared the technology used during the competitions with the Malaysia team. I am grateful to be part of the event!
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/FIRA_proj/friends.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
