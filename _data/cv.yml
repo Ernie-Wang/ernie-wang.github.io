@@ -5,6 +5,10 @@
       value: Chang-Wen Wang
     - name: Languages
       value: Chinese, English
+    - name: Programming
+      value: C/C++, Python, MatLab, Javascript
+    - name: Software
+      value: ROS/ROS2, CMake, Solidwork
 
 - title: Education
   type: time_table
