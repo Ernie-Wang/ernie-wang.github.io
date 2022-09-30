@@ -17,16 +17,15 @@ It is composed of 3 competitions:
 
 Our team is the triple champion in the 24th FIRA, held in Changwon, Korea, in 2019. The following attachments are the video clips we shot during the tournament.
 
-<div class="row">
-    <a href="https://www.youtube.com/watch?v=alOSQRSHaXU&list=PLjliv8Nq4H0Yueqa3kKgiZq-aFHjFNfrJ
-    " target="_blank">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/FIRA_proj/video_cover.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </a>
+<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/alOSQRSHaXU" title="24th FIRA 2019 androsot Team aiRobots from Taiwan" frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Highlights of the tournament. Click it to redirect to Youtube. 
+    Highlights of the tournament. 
 </div>
 
 <div class="row">
@@ -61,7 +60,7 @@ Through my development, I achieved:
         {% include figure.html path="assets/img/FIRA_proj/system_struct.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/robot.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,13 +69,13 @@ Through my development, I achieved:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head1.jpg" title="head1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head2.jpg" title="head2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head3.jpg" title="head3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
