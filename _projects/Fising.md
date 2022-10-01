@@ -15,24 +15,28 @@ Due to the ergonomic design, our device looks just like a fish. Since it also si
 My contributions to this project are building the hardware components within the instrument and programming the system. 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fising/demo1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/fising/operate.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The overall system. We created an App that connects the Fising via Bluetooth to receive instructions from the user. We also have a database for users to choose their preferred instruments, such as the sound of a piano or a drum. The right figure is a demonstration of the usage of our device. 
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fising/whole.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fising/prototype.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fising/semi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    On the left is a demonstration of the usage of our device. The middle is what our device looks like, and the hardware embedded inside the device is on the right.
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fising/demo1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fising/whole.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The overall system. We created an App that connects the Fising via Bluetooth to receive instructions from the user. We also have a database for users to choose their preferred instruments, such as the sound of a piano or a drum.
+    The evolution of our device, starting from the prototype on the left to the end product on the right.
 </div>
