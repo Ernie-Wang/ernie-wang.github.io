@@ -4,6 +4,7 @@ title: John
 description: A humanoid robot at your service.
 img: assets/img/john/john_cover.jpg
 importance: 1
+year: 2022
 category: research
 ---
 

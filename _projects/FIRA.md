@@ -4,6 +4,7 @@ title: AndroSot, FIRA
 description: A kid-size humanoid robot soccer tournament, held by Federation of International Robot-Sport Association (FIRA)
 img: assets/img/FIRA_proj/cover.jpg
 importance: 1
+year: 2019
 category: research
 ---
 

@@ -4,6 +4,7 @@ title: Quadcopter
 description: a quadcopter with a somatosensory controller
 img: assets/img/quad/copter.jpg
 importance: 1
+year: 2017
 category: side-project
 ---
 

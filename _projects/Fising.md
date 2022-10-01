@@ -4,6 +4,7 @@ title: Fising
 description: A somatosensory music instrument
 img: assets/img/fising/fising_cover.jpg
 importance: 1
+year: 2019
 category: side-project
 ---
 
