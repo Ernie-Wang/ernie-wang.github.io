@@ -312,6 +312,25 @@ footer.sticky-bottom {
   }
 }
 
+// Teaching
+
+.teach {
+  margin-bottom: 40px;
+  
+  .post {
+    background-color: var(--global-card-bg-color);
+    
+    .list-group-item {
+      background-color: inherit;
+
+      .badge {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--global-theme-color) !important;
+      }
+    }
+  }
+}
+
 // Repositories
 
 @media (min-width: 768px) {

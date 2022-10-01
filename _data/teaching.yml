@@ -1,0 +1,10 @@
+- title: 
+  type: time_table
+  contents:
+    - title: Society Advisor
+      institution: <a href="https://www.facebook.com/TNFPS">Society of Physics</a>, Tainan First Senior High School, Tainan, Taiwan
+      year: 2020-2022
+      description: 
+        - Advised each lecture to ensure that they are suitable for beginners
+        - Delivered an introduction of Arduino, including a coding training
+        - Coached a quadcopter side-project
