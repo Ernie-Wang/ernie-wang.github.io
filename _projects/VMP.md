@@ -2,7 +2,7 @@
 layout: page
 title: VMP
 description: My master's research.
-img: assets/img/john/john_cover.jpg
+img: assets/img/vmp/cover.jpg
 importance: 1
 year: 2022
 category: research
