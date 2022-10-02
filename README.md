@@ -17,7 +17,6 @@ If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
-
 ## User community
 
 The vibrant community of **al-folio** users is growing!
