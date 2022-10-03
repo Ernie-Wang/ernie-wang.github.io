@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Engineering
+    - title: Master of Science
       institution: National Cheng Kung University, Tainan, Taiwan
       year: 2022
       description:
@@ -22,7 +22,7 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Bachelor of Engineering
+    - title: Bachelor of Science
       institution: National Cheng Kung University, Tainan, Taiwan
       year: 2020
 

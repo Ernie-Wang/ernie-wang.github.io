@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I completed my M.S from the Department of Electrical Engineering, National Cheng Kung University, Taiwan, in 2020 and 2022, respectively, advised by Distinguished Prof. [Tzuu-Hseng S. Li](https://researchoutput.ncku.edu.tw/en/persons/tzuu-hseng-s-li) at the [aiRobots Lab](http://www.airobotslab.com.tw/member.html), working on humanoid and home service robots. I'm currently seeking opportunities to pursue my Ph.D.
+I completed my M.S from the Department of Electrical Engineering, National Cheng Kung University, Taiwan, in 2022, advised by Distinguished Prof. [Tzuu-Hseng S. Li](https://researchoutput.ncku.edu.tw/en/persons/tzuu-hseng-s-li) at the [aiRobots Lab](http://www.airobotslab.com.tw/member.html), working on humanoid and home service robots. I'm currently seeking opportunities to pursue my Ph.D.
 
 I'm interested in bringing robots into human life on both public and private occasions. While mobile platform robots have been commonly used to reduce human workload, I believe robots with manipulators hold the key to actually "serving" humans. In addition, I focus on designing an interface that could shorten the distance between robots and humans, making robots more straightforward to non-professional users.
 
