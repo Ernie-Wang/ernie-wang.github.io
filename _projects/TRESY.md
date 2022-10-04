@@ -2,7 +2,7 @@
 layout: page
 title: TRESY
 description: A Tele REhabiliation SYstem
-img: assets/img/tresy/cover.jpg
+img: assets/img/tresy/cover.png
 importance: 1
 year: 2018
 category: side-project

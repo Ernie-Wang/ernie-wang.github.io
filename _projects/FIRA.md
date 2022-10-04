@@ -70,13 +70,13 @@ Through my development, I achieved:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head1.jpg" title="head1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head1.jpeg" title="head1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head2.jpg" title="head2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head2.jpeg" title="head2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FIRA_proj/head3.jpg" title="head3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FIRA_proj/head3.jpeg" title="head3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
