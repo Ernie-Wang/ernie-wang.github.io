@@ -19,7 +19,7 @@ However, the propulsion each motor provides on my quadcopter is imbalanced, whic
         {% include figure.html path="assets/img/quad/controller.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/quad/copter&control.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
+        {% include figure.html path="assets/img/quad/copter+control.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
     </div>
 </div>
 <div class="caption">

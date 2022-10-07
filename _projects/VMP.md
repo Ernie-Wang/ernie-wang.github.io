@@ -16,10 +16,10 @@ This research project is currently under submission. Details will be accessible 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vmp/5dof.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vmp/5dof.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vmp/6dof.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/vmp/6dof.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/vmp/7dof.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}

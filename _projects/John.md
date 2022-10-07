@@ -37,10 +37,10 @@ Another contribution is that I constructed the robot's upper body control subsys
         {% include figure.html path="assets/img/john/front.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/john/op1.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
+        {% include figure.html path="assets/img/john/op1.jpeg" title="example image" class="img-fluid rounded z-depth-2" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/john/op3.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
+        {% include figure.html path="assets/img/john/op3.jpeg" title="example image" class="img-fluid rounded z-depth-2" %}
     </div>
 </div>
 <div class="caption">
