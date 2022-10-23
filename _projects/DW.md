@@ -27,7 +27,7 @@ My contributions are designing the robot's control system, motor drive board, an
     <iframe src="https://www.youtube.com/embed/GoNi4Kgk1a0" title="DEBRIS WALKER" frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Highlights of the tournament. 
+    Introduction of Debris Walker. 
 </div>
 
 <div class="row">
